@@ -1,0 +1,6 @@
+services:
+  swarm-simulation:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python main.py --scenario obstacles --agents 15 --ticks 80

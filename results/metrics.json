@@ -1,0 +1,20 @@
+{
+  "task_completion_rate": 40.0,
+  "collision_count": 0,
+  "collision_rate": 0.0,
+  "average_decision_latency_ms": 3.023,
+  "p95_decision_latency_ms": 4.144,
+  "max_decision_latency_ms": 4.516,
+  "real_time_pass": true,
+  "deadlock_count": 34,
+  "deadlock_resolution_rate": 88.24,
+  "average_path_length": 48.71,
+  "total_energy_cost": 765.07,
+  "recovery_time_after_failure": 0.0,
+  "communication_dropout_recovery": 100.0,
+  "performance_degradation_after_failure": 0.0,
+  "average_agents_active": 12.31,
+  "task_throughput": 7.5,
+  "coverage_velocity": 3.51,
+  "final_objective_value": 0.0
+}

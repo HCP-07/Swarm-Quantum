@@ -1,0 +1,7 @@
+# Core Runtime Dependencies
+# Adaptive Decentralized Swarm Intelligence for Real-Time Multi-Agent Navigation
+numpy>=1.24,<3
+scipy>=1.10,<2
+pandas>=2.0,<4
+matplotlib>=3.7,<4
+pydantic>=2,<3
